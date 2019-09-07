@@ -28,3 +28,24 @@ str="aabbbcccc"
 print("count()方法:::::::::::::::::    %s"%str.count("a"))
 # 10 replace()替换的方法 参数1:要替换的旧串;参数2:替换后的新串;参数3:要替换的个数 0 表示不替换,默认为-1表示全部替换
 print("replace()方法::::::::::::::     %s"%str.replace("a","f",0))
+
+import requests
+from bs4 import BeautifulSoup
+
+r=requests.get("xxx")
+soup=BeautifulSoup(r.text,'html.parser')
+
+soup.find_all('a',class_='topic_title').
+
+
+class User:
+    age=0
+
+
+    pass
+
+
+
+
+
+
