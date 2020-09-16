@@ -32,17 +32,8 @@ print("replace()方法::::::::::::::     %s"%str.replace("a","f",0))
 import requests
 from bs4 import BeautifulSoup
 
-r=requests.get("xxx")
-soup=BeautifulSoup(r.text,'html.parser')
-
-soup.find_all('a',class_='topic_title').
 
 
-class User:
-    age=0
-
-
-    pass
 
 
 
