@@ -32,7 +32,7 @@ class NetbianSpider(scrapy.Spider):
          for detail in detail_list:
              item=WallpaperspiderItem()
              # item = response.meta["item"]
-            # 每个图片的详情页
+             # 每个图片的详情页
              detail_page = detail.xpath("./a/@href").extract_first()
              if detail_page is not None:
                     detail_page = "http://www.netbian.com" + detail_page
