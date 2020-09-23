@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=com.bluemiaomiao -DartifactId=fastdfs-spring-boot-starter -Dversion=2.0.1-RELEASE -Dpackaging=jar -Dfile=fastdfs-spring-boot-starter-2.0.1-RELEASE-javadoc.jar

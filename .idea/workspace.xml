@@ -23,124 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a9bb28-a74a-4203-acdf-35c4768b0ad8" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/1-语法/1-字符串操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python学习.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/1-字符串操作.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/2-列表操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/2-列表操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/3-正则表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/3-正则表达式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/4-时间和日期.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/4-时间和日期.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/5-文件I O.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/5-文件I O.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/6.异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/6.异常处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/7.面向对象一.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/7.面向对象一.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/7.面向对象二.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/7.面向对象二.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/8-命名空间和作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/8-命名空间和作用域.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/9-Python的常见标准库.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/9-Python的常见标准库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/testfile" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/testfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Python语法/txt1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1-语法/txt1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/Python爬虫.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/Python爬虫.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/spiders/a51Job.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/Job51CrawlSpider/spiders/a51Job.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/job.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/job.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/Job51CrawlSpider/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫-CrawlSpider版本/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫-CrawlSpider版本/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/job51.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/job51.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/job.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/job.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/job51/spiders/a51job.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/job51/spiders/a51job.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/前程无忧职位爬虫/job51/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/前程无忧职位爬虫/job51/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/图片爬虫(www.mzitu.com)/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/图片爬虫(www.mzitu.com)/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/spiders/netbian.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/WallPaperSpider/spiders/netbian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/pic.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/pic.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/WallPaperSpider/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/WallPaperSpider/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/netbianSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/netbianSpider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/pic.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/pic.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/netbianSpider/spiders/netbian.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/netbianSpider/spiders/netbian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/pic.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/pic.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/壁纸爬虫/netbianSpider/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/壁纸爬虫/netbianSpider/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/login/spiders/github.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/login/spiders/github.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/爬虫模拟登录/login/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/爬虫模拟登录/login/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/spiders/doubanMovie.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/spiders/doubanMovie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/豆瓣影评.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/DoubanMovieComment/豆瓣影评.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/DoubanMovieComment/豆瓣影评.log" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/DoubanMovieComment/豆瓣影评.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/豆瓣影评爬虫/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/豆瓣影评爬虫/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/suncrawl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/suncrawl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Python爬虫/阳光政务平台爬虫/suncrawl/suncrawl/spiders/sun.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-爬虫/阳光政务平台爬虫/suncrawl/suncrawl/spiders/sun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,14 +51,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/1-Python语法" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PycharmProjects\PythonNotes\1-Python语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2.快速开始">
+  <component name="RunManager" selected="Python.7.面向对象二">
     <configuration name="1-字符串操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.面向对象一" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7.面向对象一 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +109,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-Python语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\PycharmProjects\PythonNotes\1-Python语法\7.面向对象一.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-语法/7.面向对象一.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7.面向对象二" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-语法/7.面向对象二.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,10 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7.面向对象二" />
+        <item itemvalue="Python.7.面向对象一 (1)" />
         <item itemvalue="Python.2.快速开始" />
         <item itemvalue="Python.1-字符串操作" />
         <item itemvalue="Python.8-命名空间和作用域" />
-        <item itemvalue="Python.7.面向对象一" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600305345286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1600652163066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600652163066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,22 +263,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="914" y="452" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600167731541" />
-    <state width="1207" height="341" key="GridCell.Tab.0.bottom" timestamp="1600336285301">
+    <state width="1383" height="63" key="GridCell.Tab.0.bottom" timestamp="1600853116715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1207" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600336285301" />
-    <state width="1207" height="341" key="GridCell.Tab.0.center" timestamp="1600336285301">
+    <state width="1383" height="63" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600853116715" />
+    <state width="1383" height="63" key="GridCell.Tab.0.center" timestamp="1600853116715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1207" height="341" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600336285301" />
-    <state width="1207" height="341" key="GridCell.Tab.0.left" timestamp="1600336285301">
+    <state width="1383" height="63" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600853116715" />
+    <state width="1383" height="63" key="GridCell.Tab.0.left" timestamp="1600853116715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1207" height="341" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600336285301" />
-    <state width="1207" height="341" key="GridCell.Tab.0.right" timestamp="1600336285301">
+    <state width="1383" height="63" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600853116715" />
+    <state width="1383" height="63" key="GridCell.Tab.0.right" timestamp="1600853116715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1207" height="341" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600336285301" />
+    <state width="1383" height="63" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600853116715" />
     <state width="1362" height="268" key="GridCell.Tab.1.bottom" timestamp="1600241775543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -391,22 +303,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="345" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600305404793" />
-    <state x="583" y="290" width="998" height="708" key="SettingsEditor" timestamp="1600333063659">
+    <state x="583" y="290" width="998" height="708" key="SettingsEditor" timestamp="1600754561484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="290" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600333063658" />
+    <state x="583" y="290" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600754561484" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1600226546516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1600226546516" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600305349911">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600657288816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600305349911" />
-    <state x="847" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600305449858">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600657288816" />
+    <state x="847" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600738373793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="847" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600305449858" />
+    <state x="847" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600738373793" />
     <state x="892" y="336" width="672" height="678" key="search.everywhere.popup" timestamp="1600243486087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
